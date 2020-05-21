@@ -20,9 +20,8 @@ public class TallergitcolabApplication {
 	
 	public static void escribeMiNombre(){
 		System.out.println("Fernando Rodríguez-Izquierdo Serrano");		
+		System.out.println("Fernando Rodríguez-Izquierdo Serrano");		
 	}
-	
-
 	
 
 	

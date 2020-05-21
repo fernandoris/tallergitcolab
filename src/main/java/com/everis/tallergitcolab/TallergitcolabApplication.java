@@ -10,6 +10,7 @@ public class TallergitcolabApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TallergitcolabApplication.class, args);
 		start();
+		
 	}
 
 	public static void start() {
@@ -26,7 +27,6 @@ public class TallergitcolabApplication {
 		System.out.println("Francisco Javier Carande Cabeza");
 		System.out.println("Yi Chen");
 		System.out.println("Fernando Rodríguez-Izquierdo Serrano");
-		System.out.println("Miguel Alcantara Montero");
 		System.out.println("Alvaro Rueda Sanchez");
 		System.out.println("Irene Rengel");
 		System.out.println("Fernando Vázquez Boza");
@@ -37,11 +37,18 @@ public class TallergitcolabApplication {
 		
 		System.out.println("Raúl Morales");
 		System.out.println("Luis Rosell Gonzalez");
+		System.out.println("Salvador Muñoz Cordero");
 		System.out.println("Raúl Morales");
-		
-
-		
+		System.out.println("Alicia G L");
+		System.out.println("Samuel Piñero Gomez");
+		System.out.println("Salvador Muñoz Cordero");
+		System.out.println("Fernando Vázquez Boza");
+		System.out.println("Manuel Corona Lasarte");
+		System.out.println("Ana Blanco Escudero");
 	}
+	
+
+	
 
 	
 }

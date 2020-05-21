@@ -16,9 +16,14 @@ public class TallergitcolabApplication {
 		
 		System.out.println("Hello world!");
 		escribeMiNombre();
+		
 	}
 	
 	public static void escribeMiNombre() {
 		System.out.println("Yi Chen");
+	}
+	
+	public static void escribeMiNombre() {
+		System.out.println("Miguel Alcantara Montero");
 	}
 }

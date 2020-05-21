@@ -27,20 +27,13 @@ public class TallergitcolabApplication {
 		System.out.println("Francisco Javier Carande Cabeza");
 		System.out.println("Yi Chen");
 		System.out.println("Fernando Rodríguez-Izquierdo Serrano");
-		System.out.println("Miguel Alcantara Montero");
 		System.out.println("Alvaro Rueda Sanchez");
 		System.out.println("Irene Rengel");
 		System.out.println("Javier de la Flor Alba");
 		System.out.println("Fernando Vázquez Boza");
 		System.out.println("Raúl Morales");
 		System.out.println("Luis Rosell Gonzalez");
-		System.out.println("Raúl Morales");
-		
-
-		
 		System.out.println("Alicia G L");
-		System.out.println("Miguel Alcantara Montero");
-		System.out.println("Luca Gil de Montes de Vries");
 
 					
 	}

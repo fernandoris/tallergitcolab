@@ -14,6 +14,7 @@ public class TallergitcolabApplication {
 	public static void start() {
 		
 		System.out.println("Hello world!");
+		escribeMiNombre();
 		
 	}
 	

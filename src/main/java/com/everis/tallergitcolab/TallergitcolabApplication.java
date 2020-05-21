@@ -21,8 +21,7 @@ public class TallergitcolabApplication {
 	
 		
 	public static void escribeMiNombre() {
-		System.out.println("Luis Rosell Gonzalez");
-		System.out.println("Raúl Morales");
+		System.out.println("Francisco José Caro Carazo");
 		System.out.println("Luca Gil de Montes de Vries");
 		System.out.println("Yi Chen");
 		System.out.println("Fernando Rodríguez-Izquierdo Serrano");
@@ -35,7 +34,11 @@ public class TallergitcolabApplication {
 		System.out.println("Miguel Alcantara Montero");
 		System.out.println("Luca Gil de Montes de Vries");
 		
+		System.out.println("Raúl Morales");
+		System.out.println("Luis Rosell Gonzalez");
+		System.out.println("Raúl Morales");
 
+		System.out.println("Salvador Muñoz Cordero");
 	}
 
 }

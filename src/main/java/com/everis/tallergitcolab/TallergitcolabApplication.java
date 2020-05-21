@@ -40,6 +40,7 @@ public class TallergitcolabApplication {
 		System.out.println("Manuel Corona Lasarte");
 		System.out.println("Ana Blanco Escudero");
 		System.out.println("Noelia Galindo García");
+		System.out.println("David Pineda Hidalgo");
 	}
 	
 

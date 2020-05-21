@@ -31,5 +31,7 @@ public class TallergitcolabApplication {
 	
 	public static void escribeMiNombre() {
 		System.out.println("Irene Rengel");
+	public static void escribeMiNombre() {
+		System.out.println("Fernando Vázquez Boza");
 	}
 }

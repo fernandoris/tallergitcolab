@@ -10,6 +10,7 @@ public class TallergitcolabApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TallergitcolabApplication.class, args);
 		start();
+		
 	}
 
 	public static void start() {
@@ -36,11 +37,15 @@ public class TallergitcolabApplication {
 		
 
 		
+		System.out.println("Alicia G L");
 		System.out.println("Samuel Piñero Gomez");
 		System.out.println("Salvador Muñoz Cordero");
 		System.out.println("Fernando Vázquez Boza");
 		System.out.println("Manuel Corona Lasarte");
 	}
+	
+
+	
 
 	
 }

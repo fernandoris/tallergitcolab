@@ -36,13 +36,7 @@ public class TallergitcolabApplication {
 		System.out.println("Luis Rosell Gonzalez");
 		System.out.println("Salvador Muñoz Cordero");
 		System.out.println("Raúl Morales");
-		System.out.println("Luis Rosell Gonzalez");
-		System.out.println("Raúl Morales");
-		
-
-		
 		System.out.println("Alicia G L");
-		System.out.println("Miguel Alcantara Montero");
 		System.out.println("Luca Gil de Montes de Vries");
 
 					

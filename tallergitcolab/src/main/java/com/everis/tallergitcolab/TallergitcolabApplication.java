@@ -18,6 +18,6 @@ public class TallergitcolabApplication {
 		
 	}
 	public static void escribeMiNombre() {
-		System.out.println("Joaquin Borrego Fernandez");
+		System.out.println("Joaquin Borrego Fernandez =D");
 	}
 }

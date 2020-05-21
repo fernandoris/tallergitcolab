@@ -30,15 +30,14 @@ public class TallergitcolabApplication {
 		System.out.println("Alvaro Rueda Sanchez");
 		System.out.println("Irene Rengel");
 		System.out.println("Fernando Vázquez Boza");
-
-		escribeNombre();				
-	}
-	
-
-	public static void escribeNombre() {
 		System.out.println("Alicia G L");
 		System.out.println("Miguel Alcantara Montero");
 		System.out.println("Luca Gil de Montes de Vries");
+
+					
 	}
+	
+
+	
 
 }

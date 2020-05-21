@@ -10,7 +10,6 @@ public class TallergitcolabApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TallergitcolabApplication.class, args);
 		start();
-		escribeMiNombre();
 	}
 
 	public static void start() {

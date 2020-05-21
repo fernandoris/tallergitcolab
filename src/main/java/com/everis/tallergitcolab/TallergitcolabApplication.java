@@ -21,6 +21,7 @@ public class TallergitcolabApplication {
 	public static void escribeMiNombre(){
 		System.out.println("Fernando Rodríguez-Izquierdo Serrano");	
 		System.out.println("Irene Rengel Ruiz");
+		System.out.println("Samuel Piñero Gómez");
 	}
 	
 

@@ -19,13 +19,15 @@ public class TallergitcolabApplication {
 
 	}
 	
-	public static void escribeMiNombre () {
-		System.out.println("Raúl Morales");
+	
+	public static void escribeMiNombre() {
+		System.out.println("Francisco José Caro Carazo");
 		System.out.println("Luca Gil de Montes de Vries");
 		System.out.println("Yi Chen");
 		System.out.println("Fernando Rodríguez-Izquierdo Serrano");
 		System.out.println("Miguel Alcantara Montero");
 		System.out.println("Alvaro Rueda Sanchez");
+		System.out.println("Irene Rengel");
 		System.out.println("Fernando Vázquez Boza");
 		System.out.println("Samuel Piñero Gomez");
 

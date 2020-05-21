@@ -9,11 +9,16 @@ public class TallergitcolabApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TallergitcolabApplication.class, args);
 		start();
+		
 	}
 
 	public static void start() {
 		
 		System.out.println("Hello world!");
+		escribeNombre();
 		
+	}
+	public static void escribeNombre() {
+		System.out.println("Alicia G L");
 	}
 }

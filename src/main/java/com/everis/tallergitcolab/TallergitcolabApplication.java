@@ -34,6 +34,13 @@ public class TallergitcolabApplication {
 		System.out.println("Francisco José caro Carazo");
 		System.out.println("Salvador Muñoz Cordero");
 		System.out.println("Luis Rosell González");
+		System.out.println("David Pineda Hidalgo");
+	}
+	
+
+	
+
+	
 		System.out.println("Pablo Gómez Meléndez");
 		System.out.println("Raúl Morales");
 		System.out.println("Isabel Orozco Puerto");

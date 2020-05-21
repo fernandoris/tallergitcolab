@@ -27,5 +27,6 @@ public class TallergitcolabApplication {
 		System.out.println("Miguel Alcantara Montero");
 		System.out.println("Alvaro Rueda Sanchez");
 		System.out.println("Fernando Vázquez Boza");
+		System.out.println("Samuel Piñero Gomez");
 	}
 }

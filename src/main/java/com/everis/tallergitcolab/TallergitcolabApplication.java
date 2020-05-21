@@ -35,14 +35,12 @@ public class TallergitcolabApplication {
 		System.out.println("Fernando Rodríguez-Izquierdo Serrano");
 		System.out.println("Miguel Alcantara Montero");
 		System.out.println("Luca Gil de Montes de Vries");
-		
 		System.out.println("Raúl Morales");
 		System.out.println("Luis Rosell Gonzalez");
 		System.out.println("Salvador Muñoz Cordero");
 		System.out.println("Raúl Morales");
 		System.out.println("Alicia G L");
 		System.out.println("Samuel Piñero Gomez");
-		System.out.println("Salvador Muñoz Cordero");
 		System.out.println("Fernando Vázquez Boza");
 		System.out.println("Manuel Corona Lasarte");
 		System.out.println("Alicia G L");

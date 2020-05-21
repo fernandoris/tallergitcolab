@@ -22,6 +22,8 @@ public class TallergitcolabApplication {
 	public static void escribeMiNombre() {
 		System.out.println("Francisco José Caro Carazo");
 		System.out.println("Luca Gil de Montes de Vries");
+		System.out.println("Miguel Alcantara Montero");
+		System.out.println("Francisco Javier Carande Cabeza");
 		System.out.println("Yi Chen");
 		System.out.println("Fernando Rodríguez-Izquierdo Serrano");
 		System.out.println("Miguel Alcantara Montero");

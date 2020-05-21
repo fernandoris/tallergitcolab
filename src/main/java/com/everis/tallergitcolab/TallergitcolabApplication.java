@@ -2,7 +2,6 @@ package com.everis.tallergitcolab;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.yaml.snakeyaml.external.com.google.gdata.util.common.base.Escaper;
 
 @SpringBootApplication
 public class TallergitcolabApplication {

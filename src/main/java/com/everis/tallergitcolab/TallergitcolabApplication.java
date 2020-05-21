@@ -19,6 +19,6 @@ public class TallergitcolabApplication {
 	}
 	
 	public static void escribeMiNombre() {
-		System.out.println("Alberto Ruiz Gómez");
+		System.out.println("Alberto Ruiz");
 	}
 }

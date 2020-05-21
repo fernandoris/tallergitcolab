@@ -20,7 +20,6 @@ public class TallergitcolabApplication {
 	
 	public static void escribeMiNombre() {
 		System.out.println("Noelia Galindo Garcia");
-		System.out.println("Alicia Garcia Luque");
-		System.out.println("Raúl Morales");
+		
 	}
 }
